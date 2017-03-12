@@ -67,4 +67,14 @@ $('.owl-carousel').owlCarousel({
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
+
+   
+
 });
+ //smooth scroll
+         //smooth scroll
+     $(' .links li a').click(function(){
+     $('html, body').animate({
+       scrollTop:$('#' + $(this).data('value')).offset().top
+     }, 500);
+   });

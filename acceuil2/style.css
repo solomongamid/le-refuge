@@ -1,0 +1,104 @@
+
+/* *************************** Css Annonce Input *************************** */
+
+.container  {
+	height: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+  
+}
+
+.bo-title {
+	height: 100px;
+	background-color: #566573;
+	border-radius: 5px 5px 0 0;
+}
+
+.bo-title-content {
+	height: 80px;
+	color: #fff;
+	font-size: 30px;
+	padding-top: 20px;
+	border-radius: 5px;
+	margin-top: 10px;
+	background-color: blue;
+	text-align: center;
+	border: 1px solid #fff;
+}
+
+.bo-grid {
+	background-color: transparent;
+}
+
+.bo-grid-center {
+	height: 100vh;
+	background-color:  #566573;
+}
+
+.bo-grid-catego1 {
+	height: 70px;
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	background-color: #145A32;
+	cursor: pointer;
+	left: -15px;
+
+
+}
+
+.bo-grid-catego1:hover {
+	background-color: #2471A3;
+}
+
+.bo-grid-catego2 {
+
+	height: 70px;
+	color: #fff;
+	text-align: center;
+	right: -15px;
+	font-size: 20px;
+	background-color: brown;
+	cursor: pointer;
+}
+
+.bo-grid-catego2:hover {
+	background-color: black;
+}
+
+.bo-grid-catego2:focus{
+	background-color: black;
+}
+
+.bo-grid-catego1:focus {
+	background-color: black;
+}
+
+.bo-grid-catego1:hover {
+	background-color: black;
+}
+
+.bo-content-page {
+	height: 570px;
+	background-color: #fff;
+	border-left: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	border-right: 1px solid #fff;
+	border-top: 1px solid #fff;
+}
+
+.bo-collapsible {
+	height: 50px;
+}
+
+
+
+button{
+
+	 border: none;
+
+}
+
+
+
+

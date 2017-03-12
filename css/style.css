@@ -6,11 +6,14 @@ body {
 
   }
 
-.row{
-  display: block;
-   margin: auto;
-   width: 50%;
-}   
+.su-btn{
+  padding-top: 100px;
+  padding-bottom: 30px;
+}  
+.su-select{
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
 
 .bg-1{
   background: url(../images/backg.png);
@@ -37,7 +40,7 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.start-here {
+/*.start-here {
   margin: 0;
   padding: 0;
   width: 250px;
@@ -45,7 +48,7 @@ body {
   background-color: ;
   top: 82%;
   left: 52%;
-}
+}*/
 
 .start-here .glyphicon-hand-right {
   margin-right: 10px;
@@ -59,7 +62,7 @@ body {
     color: blue;
 }
 
-.view-video {
+/*.view-video {
   margin: 0;
   padding: 0;
   width: 250px;
@@ -67,19 +70,21 @@ body {
   background-color: ;
   top: 82%;
   left: 33%;
-}
+}*/
 
 .view-video .glyphicon-question-sign {
   margin-right: 15px;
 }
 
 /* Success Start */
+.container{
 
+}
 
-.left {
+/*.left {
   left: -35%;
   margin-top: 180px;
-}
+}*/
 
 .choose-lang {
   color: #1C2833;
@@ -91,10 +96,10 @@ body {
   font-weight: bold;
 }
 
-.right {
+/*.right {
   right: 3%;
   margin-top: 180px;
-}
+}*/
 /* Success End */
 
 /* select menu */

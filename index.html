@@ -15,12 +15,13 @@
 </head>
 <body >
 
-  <div class="container">
+    <div class="container">
+    <div class="row">
+    <div class="col-xs-4 logo-accueil"><img src="./images/logo.png" alt="Une maison d'accueil"></div>
+    <div class="col-xs-4 col-xs-offset-4 welcome">Bienvenue sur Refuhelp !</div>
+    </div>
     
-    <div class=".col-sm-12 col-sm-6 logo-accueil"><img src="./images/logo.png" alt="Une maison d'accueil"></div>
-    <div class="welcome">Bienvenue sur Refuhelp !</div>
-
-
+    <div class="row su-select">
     <div class="col-xs-6 col-sm-3 left">
             <h4 class="choose-lang">Choisissez une langue</h4>
             <a class="btn btn-success btn-select">
@@ -34,7 +35,7 @@
                 </ul>
             </a>
         </div>
-        <div class="col-xs-6 col-sm-3 right">
+        <div class="col-xs-6 col-sm-3 col-xs-offset-4 right">
             <h4 class="choose-count">Choisissez le pays d'arrivée</h4>
             <a class="btn btn-warning btn-select">
                 <input type="hidden" class="btn-select-input" id="" name="" value="" />
@@ -51,17 +52,18 @@
                 </ul>
             </a>
         </div>
+        </div>
+    <div class="row su-btn">
+    <div class="col-xs-6 col-sm-3 start-here"><a href="./pages/main.html" class="btn btn-lg btn-success"><span class="glyphicon glyphicon-hand-right"></span>COMMENCER ICI</a></div>
 
-
-    <div class="col-sm-12 col-sm-6 start-here"><a href="./pages/main.html" class="btn btn-lg btn-success"><span class="glyphicon glyphicon-hand-right"></span>COMMENCER ICI</a></div>
-
-      <div class="col-sm-8 col-sm-offset-2 view-video medium-paragraph">
+      <div class="col-xs-6 col-sm-3 col-xs-offset-4  view-video medium-paragraph">
         <a href="#" class="launch-modal btn btn-lg btn-info" data-modal-id="modal-video">
         <span class="glyphicon glyphicon glyphicon-play"></span>
           <span class="video-link-text">VOIR LA VIDEO</span> 
         </a>
       </div>
-
+    </div>
+    </div>
 
     <!-- MODAL: How it works -->
         <div class="modal fade" id="modal-video" tabindex="-1" role="dialog" aria-labelledby="modal-video-label">

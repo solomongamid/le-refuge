@@ -34,7 +34,7 @@
             </div>
             </form>
             </br>
-            <button type="submit" id="send" class="btn btn-default" onclick="window.location.href='index.html'">Login</button> </br></br></br>
+            <button type="submit" id="send" class="btn btn-default" onclick="window.location.href='index.php'">Login</button> </br></br></br>
            
     
 </body>

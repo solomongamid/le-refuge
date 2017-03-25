@@ -54,7 +54,7 @@
         </div>
         </div>
     <div class="row su-btn">
-    <div class="col-xs-6 col-sm-3 start-here"><a href="./pages/main.html" class="btn btn-lg btn-success"><span class="glyphicon glyphicon-hand-right"></span>COMMENCER ICI</a></div>
+    <div class="col-xs-6 col-sm-3 start-here"><a href="./pages/main.php" class="btn btn-lg btn-success"><span class="glyphicon glyphicon-hand-right"></span>COMMENCER ICI</a></div>
 
       <div class="col-xs-6 col-sm-3 col-xs-offset-4  view-video medium-paragraph">
         <a href="#" class="launch-modal btn btn-lg btn-info" data-modal-id="modal-video">

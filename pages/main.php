@@ -8,7 +8,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
-		<title>Lattes - Onepage Multipurpose Bootstrap HTML</title>
+		<title>REFUHELP</title>
 		<!-- Bootstrap core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -27,7 +27,7 @@
 		<!-- Navigation -->
 		<nav>
 			<div class="navbar">
-				<div class="logo-nav"><a href="../index.html"><img src="./images/logo.png" alt="Une maison d'accueil" width="60" height="60"></a></div>
+				<div class="logo-nav"><a href="../index.php"><img src="./images/logo.png" alt="Une maison d'accueil" width="60" height="60"></a></div>
 				<div class="slogan">Le meilleur endroit pour s'orienter sans grande difficulté pour ses toutes ses démarches !</div>
 			</div>
 		</nav>
@@ -124,7 +124,7 @@
 							<figcaption>
 								<h2>Insertion Pro</h2>
 								<p>Formations</p>
-							<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
+							<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -428,7 +428,7 @@
 						<nav class="navbar navbar-default">
 							<div class="container-fluid">
 								<ul class="nav navbar-nav">
-									<li><a href="./mdl/index.html">CHAT</a></li>
+									<li><a href="./mdl/index.php">CHAT</a></li>
 									<li><a href="facebook.com">FACEBOOK</a></li>
 									<li><a href="http://www.twitter.com">TWITTER</a></li>
 									<li><a href="http://linkedin.com">LINKEDIN</a></li>
@@ -467,14 +467,14 @@
 		</div>
 
 		<!-- Modal for portfolio item 6 -->
-		<div class="modal fade" id="Modal-2" tabindex="-1" role="dialog" aria-labelledby="Modal-label-2">
+		<div class="modal fade" id="Modal-6" tabindex="-1" role="dialog" aria-labelledby="Modal-label-6>
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
 						<nav class="navbar navbar-default">
 							<div class="container-fluid">
 								<ul class="nav navbar-nav">
-									<li><a href="http://www.lylo.fr/">simp</a></li>
+									<li><a href="http://www.simplon.co">SIMPLON</a></li>
 									
 								</ul>
 							</div>
